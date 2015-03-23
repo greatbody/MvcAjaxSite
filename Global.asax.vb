@@ -1,6 +1,6 @@
 ﻿Imports System.Web.SessionState
 Imports SunSoftUtility.DbHelper.SqliteDbHelper
-Public Class Global_asax
+Public Class GlobalAsax
     Inherits System.Web.HttpApplication
 
     Sub Application_Start(ByVal sender As Object, ByVal e As EventArgs)

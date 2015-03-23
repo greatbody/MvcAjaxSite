@@ -1,1 +1,1 @@
-﻿<%@ Application Codebehind="Global.asax.vb" Inherits="AspExperimentSite.Global_asax" Language="vb" %>
+﻿<%@ Application Codebehind="Global.asax.vb" Inherits="AspExperimentSite.GlobalAsax" Language="vb" %>

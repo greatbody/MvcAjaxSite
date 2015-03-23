@@ -1,0 +1,14 @@
+E:\GitHubCode\AspExperimentSite\AspExperimentSite\bin\AspExperimentSite.dll
+E:\GitHubCode\AspExperimentSite\AspExperimentSite\bin\AspExperimentSite.pdb
+E:\GitHubCode\AspExperimentSite\AspExperimentSite\bin\AspExperimentSite.xml
+E:\GitHubCode\AspExperimentSite\AspExperimentSite\obj\Debug\AspExperimentSite.Resources.resources
+E:\GitHubCode\AspExperimentSite\AspExperimentSite\obj\Debug\AspExperimentSite.vbproj.GenerateResource.Cache
+E:\GitHubCode\AspExperimentSite\AspExperimentSite\obj\Debug\AspExperimentSite.dll
+E:\GitHubCode\AspExperimentSite\AspExperimentSite\obj\Debug\AspExperimentSite.xml
+E:\GitHubCode\AspExperimentSite\AspExperimentSite\obj\Debug\AspExperimentSite.pdb
+E:\GitHubCode\AspExperimentSite\AspExperimentSite\bin\SunSoft.MVC.dll
+E:\GitHubCode\AspExperimentSite\AspExperimentSite\bin\SunSoftUtility.dll
+E:\GitHubCode\AspExperimentSite\AspExperimentSite\bin\SunSoft.MVC.pdb
+E:\GitHubCode\AspExperimentSite\AspExperimentSite\bin\SunSoftUtility.pdb
+E:\GitHubCode\AspExperimentSite\AspExperimentSite\bin\SunSoftUtility.xml
+E:\GitHubCode\AspExperimentSite\AspExperimentSite\bin\System.Data.SQLite.dll
